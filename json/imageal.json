@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/zimshk/swagger/main/file2.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/zimshk/swagger/main/file2.yaml",
+            "name": "Test"
+        }
+    ]
+}

